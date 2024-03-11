@@ -6,6 +6,7 @@ class Estudiante:
         self.nombre = nombre
         self.edad = edad
 
+
 est1 = Estudiante ("Carmen",36)
 est2 = Estudiante ("Alonso",25)
 est3 = Estudiante ("Silvia",15)
